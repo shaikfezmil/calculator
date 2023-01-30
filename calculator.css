@@ -1,0 +1,32 @@
+.calc{width: 300px;
+     height: 480px;
+      border: 5px solid rgb(92, 63, 30);
+       background-color:black;
+       margin: auto;
+     padding: 10px;
+      border-radius: 30px;}
+  #calc1{border-radius: 10px;}   
+ .ed{float: left;
+      justify-content: center;
+      display: flex;
+        padding: 25px;
+        margin: 5px;
+        color: wheat;
+        cursor: pointer;} 
+
+     .ed.c{background-color: red;}
+     .ed.b{background-color:orangered;
+           cursor: pointer;
+            color: white; }
+      .ed.a{background-color: yellow; 
+            color: green; }
+
+      
+ #calc{
+       border: 3px solid gray; } 
+ input{ border: 2px solid skyblue;
+        background-color: darkcyan;
+         }
+ input:hover{background-color: honeydew;
+               color: indigo;}
+ calcut
